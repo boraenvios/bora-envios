@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main-input {
+  @apply border w-full rounded border-gray-300 h-12 pl-14 focus:outline-none focus:ring-1 focus:ring-primary;
+}
+
+.ka-input {
+  @apply text-center border w-full rounded border-gray-300 h-10 focus:outline-none focus:ring-1 focus:ring-primary;
+}
+
+.input-label {
+  @apply font-semibold absolute -top-3 left-2.5 bg-white px-2;
+}
+
+.ka-container {
+  @apply w-product lg:w-productLg;
+}

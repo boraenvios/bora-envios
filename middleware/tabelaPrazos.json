@@ -1,0 +1,1562 @@
+[
+  {
+    "countryCode": "AD",
+    "upsSaver": "7 - 9",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "7 - 9"
+  },
+  {
+    "countryCode": "AE",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "9 - 11",
+    "fedexEconomy": "4 - 6",
+    "fedexPriority": "3 - 5",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "AF",
+    "upsSaver": "2 - 10",
+    "upsExpedited": "5 - 9",
+    "fedexEconomy": "4 - 9",
+    "fedexPriority": "5 - 6",
+    "dhl": "1 - 3"
+  },
+  {
+    "countryCode": "AG",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "AL",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "8 - 10",
+    "fedexPriority": "5 - 7",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "AM",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "12 - 14",
+    "fedexPriority": "9 - 11",
+    "dhl": "10 - 12"
+  },
+  {
+    "countryCode": "AO",
+    "upsSaver": "7 - 9",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "6 - 8",
+    "dhl": "8 - 10"
+  },
+  {
+    "countryCode": "AR",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "4 - 6",
+    "fedexPriority": "2 - 4",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "AT",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "3 - 5",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "AU",
+    "upsSaver": "9 - 11",
+    "upsExpedited": "10 - 12",
+    "fedexEconomy": "8 - 10",
+    "fedexPriority": "6 - 8",
+    "dhl": "9 - 11"
+  },
+  {
+    "countryCode": "AZ",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "5 - 7",
+    "fedexEconomy": "9 - 11",
+    "fedexPriority": "6 - 8",
+    "dhl": "7 - 9"
+  },
+  {
+    "countryCode": "BA",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "10 - 12",
+    "fedexEconomy": "4 - 6",
+    "fedexPriority": "2 - 4",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "BB",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "5 - 7",
+    "fedexPriority": "3 - 5",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "BD",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "4 - 6",
+    "fedexPriority": "4 - 6",
+    "dhl": "7 - 9"
+  },
+  {
+    "countryCode": "BE",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "5 - 7",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "3 - 5",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "BF",
+    "upsSaver": "7 - 9",
+    "upsExpedited": "9 - 11",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "6 - 8"
+  },
+  {
+    "countryCode": "BG",
+    "upsSaver": "6 - 8",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "3 - 5",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "BH",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "4 - 6",
+    "fedexPriority": "3 - 5",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "BI",
+    "upsSaver": "6 - 8",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "6 - 8",
+    "dhl": "-"
+  },
+  {
+    "countryCode": "BJ",
+    "upsSaver": "9 - 11",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "6 - 10"
+  },
+  {
+    "countryCode": "BN",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "9 - 11",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "4 - 6",
+    "dhl": "9 - 11"
+  },
+  {
+    "countryCode": "BO",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "4 - 6",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "6 - 8",
+    "dhl": "6 - 8"
+  },
+  {
+    "countryCode": "BS",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "4 - 6",
+    "fedexPriority": "2 - 4",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "BT",
+    "upsSaver": "6 - 8",
+    "upsExpedited": "9 - 11",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "16 - 18"
+  },
+  {
+    "countryCode": "BW",
+    "upsSaver": "6 - 8",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "4 - 6",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "BY",
+    "upsSaver": "7 - 9",
+    "upsExpedited": "10 - 12",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "3 - 5",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "BZ",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "CA",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "2 - 4",
+    "fedexEconomy": "4 - 6",
+    "fedexPriority": "2 - 4",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "CD",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "4 - 6",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "CF",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "10 - 12"
+  },
+  {
+    "countryCode": "CG",
+    "upsSaver": "6 - 8",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "5 - 7",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "CH",
+    "upsSaver": "2 - 5",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "3 - 5",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "CI",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "8 - 10",
+    "fedexPriority": "6 - 8",
+    "dhl": "7 - 9"
+  },
+  {
+    "countryCode": "CL",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "5 - 7",
+    "fedexEconomy": "4 - 6",
+    "fedexPriority": "3 - 5",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "CM",
+    "upsSaver": "8 - 10",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "8 - 10",
+    "fedexPriority": "6 - 8",
+    "dhl": "9 - 11"
+  },
+  {
+    "countryCode": "CN",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "4 - 6",
+    "dhl": "9 - 11"
+  },
+  {
+    "countryCode": "CO",
+    "upsSaver": "7 - 9",
+    "upsExpedited": "5 - 7",
+    "fedexEconomy": "5 - 7",
+    "fedexPriority": "3 - 5",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "CR",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "5 - 7",
+    "fedexEconomy": "5 - 7",
+    "fedexPriority": "3 - 5",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "CU",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "10 - 12",
+    "fedexPriority": "5 - 7",
+    "dhl": "8 - 10"
+  },
+  {
+    "countryCode": "CV",
+    "upsSaver": "10 - 12",
+    "upsExpedited": "10 - 12",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "4 - 6",
+    "dhl": "12 - 14"
+  },
+  {
+    "countryCode": "CY",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "5 - 7",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "5 - 7",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "CZ",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "3 - 5",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "DE",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "3 - 5",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "DJ",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "DK",
+    "upsSaver": "2 - 4",
+    "upsExpedited": "4 - 6",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "3 - 5",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "DM",
+    "upsSaver": "8 - 10",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "3 - 5",
+    "dhl": "6 - 8"
+  },
+  {
+    "countryCode": "DO",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "5 - 7",
+    "fedexEconomy": "5 - 7",
+    "fedexPriority": "3 - 5",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "DZ",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "3 - 5",
+    "fedexEconomy": "4 - 6",
+    "fedexPriority": "2 - 4",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "EC",
+    "upsSaver": "7 - 9",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "6 - 8",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "EE",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "EG",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "4 - 6",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "5 - 7",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "ER",
+    "upsSaver": "8 - 10",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "10 - 12",
+    "fedexPriority": "8 - 10",
+    "dhl": "12 - 14"
+  },
+  {
+    "countryCode": "ES",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "4 - 6",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "ET",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "9 - 11",
+    "fedexPriority": "7 - 9",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "FI",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "9 - 11",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "4 - 6",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "FJ",
+    "upsSaver": "8 - 10",
+    "upsExpedited": "10 - 12",
+    "fedexEconomy": "11 - 13",
+    "fedexPriority": "7 - 9",
+    "dhl": "7 - 9"
+  },
+  {
+    "countryCode": "FM",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "Consulte com nosso atendimento"
+  },
+  {
+    "countryCode": "FR",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "4 - 6",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "GA",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "5 - 7",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "GB",
+    "upsSaver": "2 - 4",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "3 - 5",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "GD",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "7 - 9"
+  },
+  {
+    "countryCode": "GE",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "Consulte com nosso atendimento"
+  },
+  {
+    "countryCode": "GH",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "GM",
+    "upsSaver": "8 - 10",
+    "upsExpedited": "9 - 11",
+    "fedexEconomy": "8 - 10",
+    "fedexPriority": "6 - 8",
+    "dhl": "7 - 9"
+  },
+  {
+    "countryCode": "GN",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "4 - 6",
+    "dhl": "7 - 9"
+  },
+  {
+    "countryCode": "GQ",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "GR",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "3 - 5",
+    "fedexPriority": "6 - 8",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "GT",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "5 - 7",
+    "fedexEconomy": "3 - 5",
+    "fedexPriority": "5 - 7",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "GW",
+    "upsSaver": "7 - 9",
+    "upsExpedited": "-",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "7 - 9"
+  },
+  {
+    "countryCode": "GY",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "4 - 6",
+    "dhl": "6 - 8"
+  },
+  {
+    "countryCode": "HN",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "4 - 6",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "HR",
+    "upsSaver": "8 - 10",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "8 - 10",
+    "fedexPriority": "6 - 8",
+    "dhl": "6 - 8"
+  },
+  {
+    "countryCode": "HT",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "5 - 7",
+    "fedexPriority": "4 - 6",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "HU",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "4 - 6",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "ID",
+    "upsSaver": "6 - 8",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "5 - 7",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "IE",
+    "upsSaver": "2 - 4",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "3 - 5",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "IL",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "4 - 6",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "IN",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "4 - 6",
+    "fedexPriority": "5 - 7",
+    "dhl": "6 - 8"
+  },
+  {
+    "countryCode": "IQ",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "9 - 11",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "7 - 9"
+  },
+  {
+    "countryCode": "IR",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "9 - 11",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "7 - 9"
+  },
+  {
+    "countryCode": "IS",
+    "upsSaver": "2 - 5",
+    "upsExpedited": "5 - 7",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "4 - 6",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "IT",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "4 - 6",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "JM",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "5 - 7",
+    "fedexPriority": "3 - 5",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "JO",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "JP",
+    "upsSaver": "6 - 8",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "5 - 7",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "KE",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "4 - 6",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "KG",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "9 - 11",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "2 - 4",
+    "dhl": "9 - 11"
+  },
+  {
+    "countryCode": "KH",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "10 - 12",
+    "fedexEconomy": "5 - 7",
+    "fedexPriority": "3 - 5",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "KI",
+    "upsSaver": "8 - 10",
+    "upsExpedited": "11 - 13",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "17 - 19"
+  },
+  {
+    "countryCode": "KM",
+    "upsSaver": "6 - 8",
+    "upsExpedited": "12 - 14",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": ""
+  },
+  {
+    "countryCode": "KN",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "Consulte com nosso atendimento"
+  },
+  {
+    "countryCode": "KP",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "Consulte com nosso atendimento"
+  },
+  {
+    "countryCode": "KR",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "5 - 7",
+    "fedexPriority": "3 - 5",
+    "dhl": "4 - 9"
+  },
+  {
+    "countryCode": "KW",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "4 - 6",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "KZ",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "9 - 11",
+    "fedexPriority": "7 - 9",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "LA",
+    "upsSaver": "7 - 9",
+    "upsExpedited": "9 - 11",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "10 - 12"
+  },
+  {
+    "countryCode": "LB",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "LC",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "4 - 6",
+    "fedexPriority": "2 - 4",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "LI",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "5 - 7",
+    "fedexPriority": "4 - 6",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "LK",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "-"
+  },
+  {
+    "countryCode": "LR",
+    "upsSaver": "6 - 8",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "5 - 7",
+    "dhl": "6 - 8"
+  },
+  {
+    "countryCode": "LS",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "10 - 12",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "5 - 7",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "LT",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "4 - 6",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "LU",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "4 - 6",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "LV",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "4 - 6",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "LY",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "6 - 8",
+    "dhl": "12 - 14"
+  },
+  {
+    "countryCode": "MA",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "5 - 7",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "MC",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "MD",
+    "upsSaver": "2 - 3",
+    "upsExpedited": "5 - 7",
+    "fedexEconomy": "8 - 10",
+    "fedexPriority": "5 - 7",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "ME",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "4 - 6",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "MG",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "5 - 7",
+    "dhl": "8 - 10"
+  },
+  {
+    "countryCode": "MH",
+    "upsSaver": "9 - 11",
+    "upsExpedited": "10 - 12",
+    "fedexEconomy": "9 - 11",
+    "fedexPriority": "7 - 9",
+    "dhl": "6 - 8"
+  },
+  {
+    "countryCode": "MK",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "4 - 6",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "ML",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "4 - 6",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "MM",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "Consulte com nosso atendimento"
+  },
+  {
+    "countryCode": "MN",
+    "upsSaver": "7 - 9",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "16 - 18"
+  },
+  {
+    "countryCode": "MR",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "9 - 11",
+    "fedexEconomy": "13 - 15",
+    "fedexPriority": "13 - 15",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "MT",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "MU",
+    "upsSaver": "6 - 8",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "7 - 9"
+  },
+  {
+    "countryCode": "MV",
+    "upsSaver": "7 - 9",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "8 - 10",
+    "fedexPriority": "5 - 7",
+    "dhl": "12 - 14"
+  },
+  {
+    "countryCode": "MW",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "4 - 6",
+    "fedexPriority": "2 - 4",
+    "dhl": "6 - 8"
+  },
+  {
+    "countryCode": "MX",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "5 - 7",
+    "fedexEconomy": "5 - 7",
+    "fedexPriority": "4 - 6",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "MY",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "5 - 7",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "5 - 7",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "MZ",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "4 - 8",
+    "fedexPriority": "6 - 8",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "NA",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "4 - 6",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "NE",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "10 - 12",
+    "fedexPriority": "8 - 10",
+    "dhl": "6 - 8"
+  },
+  {
+    "countryCode": "NG",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "11 - 13",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "5 - 7",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "NI",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "3 - 5",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "NL",
+    "upsSaver": "2 - 4",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "3 - 5",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "NO",
+    "upsSaver": "2 - 4",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "3 - 5",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "NP",
+    "upsSaver": "10 - 12",
+    "upsExpedited": "10 - 12",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "8 - 10"
+  },
+  {
+    "countryCode": "NR",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "Consulte com nosso atendimento"
+  },
+  {
+    "countryCode": "NZ",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "10 - 12",
+    "fedexEconomy": "8 - 10",
+    "fedexPriority": "5 - 7",
+    "dhl": "6 - 8"
+  },
+  {
+    "countryCode": "OM",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "7 - 9"
+  },
+  {
+    "countryCode": "PA",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "11 - 13",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "3 - 5",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "PE",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "4 - 6",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "PG",
+    "upsSaver": "6 - 8",
+    "upsExpedited": "N�O ESTA DISPONIVEL",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "6 - 8",
+    "dhl": "9 - 11"
+  },
+  {
+    "countryCode": "PH",
+    "upsSaver": "CONSULTAR Consulte com nosso atendimento",
+    "upsExpedited": "CONSULTAR Consulte com nosso atendimento",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "6 - 8",
+    "dhl": "7 - 9"
+  },
+  {
+    "countryCode": "PK",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "5 - 7",
+    "dhl": "7 - 9"
+  },
+  {
+    "countryCode": "PL",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "3 - 5",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "PS",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "Consulte com nosso atendimento"
+  },
+  {
+    "countryCode": "PT",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "5 - 7",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "3 - 5",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "PW",
+    "upsSaver": "10 - 12",
+    "upsExpedited": "11 - 13",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "6 - 8",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "PY",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "4 - 6",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "QA",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "9 - 11",
+    "fedexPriority": "5 - 7",
+    "dhl": "6 - 8"
+  },
+  {
+    "countryCode": "RO",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "4 - 6",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "RS",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "8 - 10",
+    "fedexPriority": "4 - 6",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "RU",
+    "upsSaver": "6 - 8",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "9 - 11",
+    "fedexPriority": "5 - 7",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "RW",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "5 - 7",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "SA",
+    "upsSaver": "7 - 9",
+    "upsExpedited": "9 - 11",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "6 - 8"
+  },
+  {
+    "countryCode": "SB",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "12 - 14"
+  },
+  {
+    "countryCode": "SC",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "7 - 8",
+    "dhl": "Consulte com nosso atendimento"
+  },
+  {
+    "countryCode": "SD",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "Consulte com nosso atendimento"
+  },
+  {
+    "countryCode": "SE",
+    "upsSaver": "2 - 4",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "3 - 5",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "SG",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "4 - 6",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "SI",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "3 - 5",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "SK",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "8 - 10",
+    "fedexPriority": "5 - 7",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "SL",
+    "upsSaver": "6 - 8",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "6 - 8"
+  },
+  {
+    "countryCode": "SM",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "SN",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "SO",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "7 - 9"
+  },
+  {
+    "countryCode": "SR",
+    "upsSaver": "8 - 10",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "9 - 11",
+    "fedexPriority": "8 - 10",
+    "dhl": "8 - 10"
+  },
+  {
+    "countryCode": "SS",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "6 - 8"
+  },
+  {
+    "countryCode": "ST",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "12 - 14"
+  },
+  {
+    "countryCode": "SV",
+    "upsSaver": "6 - 8",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "SY",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "12 - 14"
+  },
+  {
+    "countryCode": "SZ",
+    "upsSaver": "6 - 8",
+    "upsExpedited": "9 - 11",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "4 - 6",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "TD",
+    "upsSaver": "6 - 8",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "9 - 11",
+    "fedexPriority": "7 - 9",
+    "dhl": "7 - 9"
+  },
+  {
+    "countryCode": "TG",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "8 - 10",
+    "fedexPriority": "6 - 8",
+    "dhl": "6 - 8"
+  },
+  {
+    "countryCode": "TH",
+    "upsSaver": "6 - 8",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "9 - 11",
+    "fedexPriority": "8 - 10",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "TJ",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "10 - 12"
+  },
+  {
+    "countryCode": "TL",
+    "upsSaver": "7 - 9",
+    "upsExpedited": "9 - 11",
+    "fedexEconomy": "9 - 11",
+    "fedexPriority": "7 - 9",
+    "dhl": "21 - 23"
+  },
+  {
+    "countryCode": "TM",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "16 - 18"
+  },
+  {
+    "countryCode": "TN",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "6 - 8"
+  },
+  {
+    "countryCode": "TO",
+    "upsSaver": "9 - 11",
+    "upsExpedited": "13 - 15",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "13 - 15"
+  },
+  {
+    "countryCode": "TR",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "6 - 8",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "TT",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "5 - 7",
+    "fedexPriority": "3 - 5",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "TV",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "20 - 22"
+  },
+  {
+    "countryCode": "TW",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "5 - 7",
+    "fedexPriority": "3 - 5",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "TZ",
+    "upsSaver": "8 - 10",
+    "upsExpedited": "9 - 11",
+    "fedexEconomy": "11 - 13",
+    "fedexPriority": "9 - 11",
+    "dhl": ""
+  },
+  {
+    "countryCode": "UA",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "8 - 10",
+    "fedexPriority": "5 - 7",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "UG",
+    "upsSaver": "6 - 8",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "4 - 6",
+    "dhl": "8 - 10"
+  },
+  {
+    "countryCode": "US",
+    "upsSaver": "2 - 4",
+    "upsExpedited": "4 - 6",
+    "fedexEconomy": "4 - 6",
+    "fedexPriority": "2 - 4",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "UY",
+    "upsSaver": "7 - 9",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "UZ",
+    "upsSaver": "8 - 10",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "9 - 11"
+  },
+  {
+    "countryCode": "VA",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "Consulte com nosso atendimento"
+  },
+  {
+    "countryCode": "VC",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "4 - 6",
+    "fedexPriority": "6 - 8",
+    "dhl": "Consulte com nosso atendimento"
+  },
+  {
+    "countryCode": "VE",
+    "upsSaver": "8 - 10",
+    "upsExpedited": "8 - 10",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "3 - 5"
+  },
+  {
+    "countryCode": "VN",
+    "upsSaver": "3 - 5",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "3 - 5",
+    "fedexPriority": "7 - 9",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "VU",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "4 - 6",
+    "dhl": "14 - 16"
+  },
+  {
+    "countryCode": "WS",
+    "upsSaver": "10 - 12",
+    "upsExpedited": "11 - 13",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "8 - 10",
+    "dhl": "8 - 10"
+  },
+  {
+    "countryCode": "YE",
+    "upsSaver": "Consulte com nosso atendimento",
+    "upsExpedited": "Consulte com nosso atendimento",
+    "fedexEconomy": "Consulte com nosso atendimento",
+    "fedexPriority": "Consulte com nosso atendimento",
+    "dhl": "8 - 10"
+  },
+  {
+    "countryCode": "ZA",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "6 - 8",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "6 - 8",
+    "dhl": "5 - 7"
+  },
+  {
+    "countryCode": "ZM",
+    "upsSaver": "4 - 6",
+    "upsExpedited": "5 - 7",
+    "fedexEconomy": "6 - 8",
+    "fedexPriority": "5 - 7",
+    "dhl": "4 - 6"
+  },
+  {
+    "countryCode": "ZW",
+    "upsSaver": "5 - 7",
+    "upsExpedited": "7 - 9",
+    "fedexEconomy": "7 - 9",
+    "fedexPriority": "5 - 7",
+    "dhl": "4 - 6"
+  }
+]

@@ -1,0 +1,3647 @@
+[
+  {
+    "uflane": "RJRJ",
+    "icms": 0.8,
+    "iss": 0.95
+  },
+  {
+    "uflane": "ALAL",
+    "icms": 0.82,
+    "iss": 0.95
+  },
+  {
+    "uflane": "APAP",
+    "icms": 0.82,
+    "iss": 0.95
+  },
+  {
+    "uflane": "BABA",
+    "icms": 0.82,
+    "iss": 0.95
+  },
+  {
+    "uflane": "CECE",
+    "icms": 0.82,
+    "iss": 0.95
+  },
+  {
+    "uflane": "DFDF",
+    "icms": 0.82,
+    "iss": 0.95
+  },
+  {
+    "uflane": "MAMA",
+    "icms": 0.82,
+    "iss": 0.95
+  },
+  {
+    "uflane": "MGMG",
+    "icms": 0.82,
+    "iss": 0.95
+  },
+  {
+    "uflane": "PBPB",
+    "icms": 0.82,
+    "iss": 0.95
+  },
+  {
+    "uflane": "PEPE",
+    "icms": 0.82,
+    "iss": 0.95
+  },
+  {
+    "uflane": "PIPI",
+    "icms": 0.82,
+    "iss": 0.95
+  },
+  {
+    "uflane": "RNRN",
+    "icms": 0.82,
+    "iss": 0.95
+  },
+  {
+    "uflane": "SESE",
+    "icms": 0.82,
+    "iss": 0.95
+  },
+  {
+    "uflane": "TOTO",
+    "icms": 0.82,
+    "iss": 0.95
+  },
+  {
+    "uflane": "RORO",
+    "icms": 0.825,
+    "iss": 0.95
+  },
+  {
+    "uflane": "ACAC",
+    "icms": 0.83,
+    "iss": 0.95
+  },
+  {
+    "uflane": "GOGO",
+    "icms": 0.83,
+    "iss": 0.95
+  },
+  {
+    "uflane": "MSMS",
+    "icms": 0.83,
+    "iss": 0.95
+  },
+  {
+    "uflane": "MTMT",
+    "icms": 0.83,
+    "iss": 0.95
+  },
+  {
+    "uflane": "PAPA",
+    "icms": 0.83,
+    "iss": 0.95
+  },
+  {
+    "uflane": "RRRR",
+    "icms": 0.83,
+    "iss": 0.95
+  },
+  {
+    "uflane": "SCSC",
+    "icms": 0.83,
+    "iss": 0.95
+  },
+  {
+    "uflane": "ESES",
+    "icms": 0.88,
+    "iss": 0.95
+  },
+  {
+    "uflane": "PRPR",
+    "icms": 0.88,
+    "iss": 0.95
+  },
+  {
+    "uflane": "RSRS",
+    "icms": 0.88,
+    "iss": 0.95
+  },
+  {
+    "uflane": "SPSP",
+    "icms": 0.88,
+    "iss": 0.95
+  },
+  {
+    "uflane": "AMAM",
+    "icms": "1,0000",
+    "iss": 0.95
+  },
+  {
+    "uflane": "ACAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACBA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACCE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACDF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACRJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACRN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACRO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACRR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACRS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACSC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACSE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACSP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ACTO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALBA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALCE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALDF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALRJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALRN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALRO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALRR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALRS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALSC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALSE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALSP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ALTO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMBA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMCE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMDF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMRJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMRN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMRO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMRR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMRS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMSC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMSE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMSP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "AMTO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APBA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APCE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APDF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APRJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APRN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APRO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APRR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APRS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APSC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APSE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APSP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "APTO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BAAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BAAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BAAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BAAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BACE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BADF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BAES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BAGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BAMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BAMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BAMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BAMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BAPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BAPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BAPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BAPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BAPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BARJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BARN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BARO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BARR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BARS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BASC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BASE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BASP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "BATO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CEAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CEAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CEAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CEAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CEBA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CEDF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CEES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CEGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CEMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CEMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CEMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CEMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CEPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CEPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CEPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CEPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CEPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CERJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CERN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CERO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CERR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CERS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CESC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CESE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CESP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "CETO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFBA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFCE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFRJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFRN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFRO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFRR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFRS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFSC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFSE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFSP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "DFTO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESBA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESCE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESDF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESRJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESRN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESRO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESRR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESRS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESSC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESSE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESSP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ESTO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOBA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOCE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GODF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GORJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GORN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GORO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GORR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GORS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOSC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOSE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOSP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "GOTO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MAAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MAAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MAAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MAAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MABA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MACE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MADF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MAES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MAGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MAMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MAMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MAMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MAPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MAPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MAPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MAPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MAPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MARJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MARN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MARO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MARR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MARS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MASC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MASE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MASP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MATO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MGPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MGRJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MGRS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MGSC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MGSP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSBA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSCE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSDF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSRJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSRN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSRO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSRR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSRS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSSC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSSE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSSP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MSTO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTBA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTCE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTDF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTRJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTRN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTRO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTRR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTRS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTSC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTSE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTSP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MTTO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PAAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PAAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PAAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PAAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PABA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PACE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PADF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PAES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PAGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PAMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PAMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PAMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PAMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PAPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PAPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PAPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PAPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PARJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PARN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PARO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PARR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PARS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PASC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PASE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PASP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PATO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBBA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBCE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBDF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBRJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBRN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBRO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBRR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBRS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBSC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBSE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBSP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PBTO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PEAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PEAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PEAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PEAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PEBA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PECE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PEDF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PEES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PEGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PEMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PEMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PEMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PEMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PEPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PEPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PEPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PEPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PERJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PERN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PERO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PERR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PERS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PESC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PESE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PESP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PETO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIBA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PICE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIDF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIRJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIRN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIRO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIRR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PIRS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PISC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PISE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PISP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PITO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PRMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PRRJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PRRS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PRSC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "PRSP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RJMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RJPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RJRS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RJSC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RJSP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNBA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNCE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNDF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNRJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNRO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNRR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNRS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNSC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNSE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNSP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RNTO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROBA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROCE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RODF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RORJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RORN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RORR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RORS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROSC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROSE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROSP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "ROTO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRBA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRCE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRDF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRRJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRRN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRRO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRRS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRSC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRSE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRSP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RRTO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RSMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RSPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RSRJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RSSC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "RSSP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SCMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SCPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SCRJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SCRS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SCSP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SEAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SEAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SEAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SEAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SEBA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SECE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SEDF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SEES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SEGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SEMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SEMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SEMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SEMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SEPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SEPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SEPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SEPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SEPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SERJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SERN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SERO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SERR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SERS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SESC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SESP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SETO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SPMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SPPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SPRJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SPRS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "SPSC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOAC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOAL",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOAM",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOAP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOBA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOCE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TODF",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOES",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOGO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOMA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOMG",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOMS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOMT",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOPA",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOPB",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOPE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOPI",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOPR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TORJ",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TORN",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TORO",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TORR",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TORS",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOSC",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOSE",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "TOSP",
+    "icms": 0.88,
+    "iss": 0
+  },
+  {
+    "uflane": "MGAC",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGAL",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGAM",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGAP",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGBA",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGCE",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGDF",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGES",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGGO",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGMA",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGMS",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGMT",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGPA",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGPB",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGPE",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGPI",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGRN",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGRO",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGRR",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGSE",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "MGTO",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRAC",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRAL",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRAM",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRAP",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRBA",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRCE",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRDF",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRES",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRGO",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRMA",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRMS",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRMT",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRPA",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRPB",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRPE",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRPI",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRRN",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRRO",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRRR",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRSE",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "PRTO",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJAC",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJAL",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJAM",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJAP",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJBA",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJCE",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJDF",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJES",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJGO",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJMA",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJMS",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJMT",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJPA",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJPB",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJPE",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJPI",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJRN",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJRO",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJRR",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJSE",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RJTO",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSAC",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSAL",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSAM",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSAP",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSBA",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSCE",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSDF",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSES",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSGO",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSMA",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSMS",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSMT",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSPA",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSPB",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSPE",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSPI",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSRN",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSRO",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSRR",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSSE",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "RSTO",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCAC",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCAL",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCAM",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCAP",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCBA",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCCE",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCDF",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCES",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCGO",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCMA",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCMS",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCMT",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCPA",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCPB",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCPE",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCPI",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCRN",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCRO",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCRR",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCSE",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SCTO",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPAC",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPAL",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPAM",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPAP",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPBA",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPCE",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPDF",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPES",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPGO",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPMA",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPMS",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPMT",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPPA",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPPB",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPPE",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPPI",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPRN",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPRO",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPRR",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPSE",
+    "icms": 0.93,
+    "iss": 0
+  },
+  {
+    "uflane": "SPTO",
+    "icms": 0.93,
+    "iss": 0
+  }
+]

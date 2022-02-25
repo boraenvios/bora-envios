@@ -1,0 +1,37 @@
+[
+  {
+    "zona": 1,
+    "frete1": 20.93,
+    "freteadd": 2.19
+  },
+  {
+    "zona": 2,
+    "frete1": 27.14,
+    "freteadd": 4.37
+  },
+  {
+    "zona": 3,
+    "frete1": 27.14,
+    "freteadd": 4.37
+  },
+  {
+    "zona": 4,
+    "frete1": 38.18,
+    "freteadd": 7.48
+  },
+  {
+    "zona": 5,
+    "frete1": 38.18,
+    "freteadd": 7.48
+  },
+  {
+    "zona": 6,
+    "frete1": 59.11,
+    "freteadd": 14.15
+  },
+  {
+    "zona": 7,
+    "frete1": 59.11,
+    "freteadd": 14.15
+  }
+]
