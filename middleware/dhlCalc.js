@@ -80,6 +80,8 @@ class CalcDHL {
         prazo: prazoFromTable,
       }
 
+      console.log(output)
+
       return output
     }
   }

@@ -333,14 +333,17 @@ const calcularInter = async () => {
 
   //DHL
   const dhlURL = `${baseURL}${dhlInterAPI}`
+  let dhlCountry = ctryInput.value.toUpperCase().split(', ')
+  dhlCountry = `${dhlCountry[0]} (${dhlCountry[1]})`
   const dhlParams = {
     postalCode: postalCode,
     dstcty: city,
-    dstctr: country,
+    dstctr: dhlCountry,
     peso_cons: pesoCons,
   }
   try {
     const dhlInterQuote = await axios.get(dhlURL, { params: dhlParams })
+    console.log(dhlInterQuote.data)
     generateResults(dhlInterQuote.data)
   } catch (e) {
     console.log('UPS Indisponível')
@@ -618,10 +621,12 @@ const generateResults = (quote) => {
 
   switch (quote.service) {
     case 'dhl':
-      resultsInt.appendChild(
-        genDiv('dhl', 'DHL Express', quote.valor, quote.prazo)
-      )
-      appendResText('int', resultsInt)
+      quote.produtos.forEach(produto => {
+        resultsInt.appendChild(
+          genDiv('dhl', produto.produto, produto.valor, produto.prazo)
+        )
+        appendResText('int', resultsInt)
+      })
       break
 
     case 'ups':
