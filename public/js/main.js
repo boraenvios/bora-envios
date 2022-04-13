@@ -481,9 +481,8 @@ const calcularNacional = async () => {
   start()
   await correiosNac()
   await dhlNac()
-  upsNac().then(() => {
-    finish()
-  })
+  //await upsNac()
+  finish()
 }
 
 //UI Interaction
