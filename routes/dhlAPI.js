@@ -1,13 +1,9 @@
 const express = require('express')
-//const CalcDHL = require('../middleware/dhlCalc.js')
-
-const dhlInternacionalScrap = require('./../middleware/dhlInterCalcScrap')
-const { differenceInBusinessDays } = require('date-fns')
+const CalcDHL = require('../middleware/dhlCalc.js')
 
 const router = express.Router()
 
-router.get('/inter', async (req, res) => {
-
+router.get('/inter', (req, res) => {
   let dstcty = req.query.dstcty,
     peso_cons = req.query.peso_cons,
     dstctr = req.query.dstctr
@@ -26,45 +22,29 @@ router.get('/inter', async (req, res) => {
   postalCode = dstctr === 'TM' ? '744000' : postalCode
   postalCode = dstctr === 'TJ' ? '734000' : postalCode
   postalCode = dstctr === 'MD' ? '2001' : postalCode
+  dstcty = dstcty.replaceAll("'", '').split(' ')[0]
+
+  const pacoteDHLInter = new CalcDHL(
+    null,
+    dstcty,
+    peso_cons,
+    null,
+    postalCode,
+    null,
+    dstctr
+  )
 
   console.log('DHL INTER:', peso_cons, 'KG', postalCode, dstctr)
 
-  const result = await dhlInternacionalScrap(
-    {
-      pais: 'BRAZIL (BR)',
-      cidade: 'Cotia'
-    },
-    {
-      pais: dstctr,
-      cidade: dstcty
-    },
-    [
-      {
-        peso: peso_cons,
-        comprimento: '0',
-        largura: '0',
-        altura: '0'
-      }
-    ]
-  )
-
-  if (result.error) {
-    res.json(result.error)
-  }
-  else {
-    const produtos = result.map(({ produto, prazo, preco }) => {
-      const diffDays = differenceInBusinessDays(new Date(prazo), new Date())
-      return { 
-        produto, 
-        prazo: `${diffDays} - ${diffDays + 2}`, 
-        valor: `R$ ${Number((preco * .98).toFixed(2)).toLocaleString('pt-br', { minimumFractionDigits: 2 }) }`
-      }
+  pacoteDHLInter
+    .cotarInternacional()
+    .then((quote) => {
+      console.log(quote)
+      res.json(quote)
     })
-    res.json({
-      service: 'dhl',
-      produtos
+    .catch((err) => {
+      res.json(err)
     })
-  }
 })
 
 module.exports = router

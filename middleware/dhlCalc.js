@@ -1,6 +1,6 @@
 const fs = require('fs')
 const axios = require('axios')
-const tabelaPrazos = require('./tabelaPrazos.json')
+const { differenceInBusinessDays } = require('date-fns')
 
 class CalcDHL {
   constructor(
@@ -38,51 +38,23 @@ class CalcDHL {
     const quote_ = await axios.get(dctUrl)
     const quote = quote_.data
     const quoteCount = quote.count
-    const quoteSelector = quote.quotationList.quotation.filter(
-      (quote) => quote.prodNm === 'EXPRESS WORLDWIDE'
-    )[0]
+    const products = quote.quotationList.quotation.map(prod => {
+      const diffDays = differenceInBusinessDays(new Date(prod.estDeliv.split(', ')[1]), new Date())
+      return { 
+        produto: prod.prodNm, 
+        prazo: `${diffDays} - ${diffDays + 2}`, 
+        valor: `R$ ${Number((prod.estTotPrice.replace('BRL', '') * .98).toFixed(2)).toLocaleString('pt-br', { minimumFractionDigits: 2 }) }`
+      }
+    })
 
     //VERIFICAÇÃO DE ERRO
     if (quoteCount === 0) {
       return 'DHL INTER: ' + quote.errorMessage
     } else {
-      const strPrazo = quoteSelector.estDeliv,
-        dataPrazo = strPrazo.split(',')[1].substring(1),
-        dataEntregaDHL = new Date(dataPrazo)
-      dataEntregaDHL.setHours('00')
-      let diffDHL = dataEntregaDHL.getTime() - shpDate.getTime()
-      let prazoDHL = diffDHL / (1000 * 60 * 60 * 24)
-      prazoDHL =
-        prazoDHL > 4 && prazoDHL < 10
-          ? prazoDHL - 2
-          : prazoDHL > 11 && prazoDHL < 17
-          ? prazoDHL - 4
-          : prazoDHL > 18
-          ? prazoDHL - 6
-          : prazoDHL
-      const value = quoteSelector.estTotPrice
-        .replace('BRL', '')
-        .replace(',', '')
-      const quoteValue = parseFloat(value) * 0.98
-
-      const prazoFromTable = tabelaPrazos.filter(
-        (item) => item.countryCode === dstctr
-      )[0].dhl
-
-      const output = {
+      return {
         service: 'dhl',
-        valor:
-          'R$ ' +
-          quoteValue
-            .toFixed(2)
-            .replace(',', '')
-            .replace(/.([^.]*)$/, ',' + '$1'),
-        prazo: prazoFromTable,
+        produtos: products
       }
-
-      console.log(output)
-
-      return output
     }
   }
 

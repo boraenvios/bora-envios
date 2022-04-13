@@ -333,12 +333,11 @@ const calcularInter = async () => {
 
   //DHL
   const dhlURL = `${baseURL}${dhlInterAPI}`
-  let dhlCountry = ctryInput.value.toUpperCase().split(', ')
-  dhlCountry = `${dhlCountry[0]} (${dhlCountry[1]})`
+  console.log(dhlURL)
   const dhlParams = {
     postalCode: postalCode,
     dstcty: city,
-    dstctr: dhlCountry,
+    dstctr: country,
     peso_cons: pesoCons,
   }
   try {
