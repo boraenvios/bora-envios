@@ -128,7 +128,7 @@ const CalcFedex = async (pesoCons, postalCode, country) => {
       const resQuote =
         resJson['SOAP-ENV:Envelope']['SOAP-ENV:Body'].RateReply.RateReplyDetails
 
-      const deliveryDate = new Date(resQuote.DeliveryTimestamp?._text)
+      const deliveryDate = new Date(resQuote.DeliveryTimestamp._text)
       deliveryDate.setHours('12')
       shipDate.setHours('12', '00', '00')
       const dateDiff = deliveryDate.getTime() - shipDate.getTime()
