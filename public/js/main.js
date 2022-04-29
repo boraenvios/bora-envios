@@ -60,7 +60,7 @@ const loadMainListeners = () => {
   dimensionRowNac.addEventListener('click', manageRows)
   dimensionRowInt.addEventListener('click', manageRows)
 
-  selectorNac.addEventListener('click', changeCalc)
+  //selectorNac.addEventListener('click', changeCalc)
   selectorInt.addEventListener('click', changeCalc)
 
   ctryInput.addEventListener('input', countriesInput)
