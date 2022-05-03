@@ -63,7 +63,7 @@ router.get('/inter', (req, res) => {
       ? '170312'
       : postalCode
 
-  city = city.toString().split(' ')[0].replaceAll("'", '').replaceAll('-', ' ')
+  city = city.toString().split(' ')[0].replace("'", '').replace('-', ' ')
 
   city = country === 'KH' ? 'Phnom Penh' : city
 

@@ -142,12 +142,14 @@ const CalcFedex = async (pesoCons, postalCode, country) => {
           ? prazoFedex - 6
           : prazoFedex
 
-      const quoteValue =
+      let quoteValue =
         resQuote.RatedShipmentDetails[1].ShipmentRateDetail.TotalNetFedExCharge
           .Amount._text
 
+      quoteValue = parseFloat(quoteValue)
+      const discountedValue = Number((quoteValue * .99).toFixed(2)).toLocaleString('pt-br', { minimumFractionDigits: 2 })
       quotes[i] =
-        'R$ ' + (parseFloat(quoteValue) * 0.99).toFixed(2).replace('.', ',')
+        'R$ ' + discountedValue
 
       let svcPrazo = i === 0 ? 'fedexEconomy' : 'fedexPriority'
       tit[i] = tabelaPrazos.filter((item) => item.countryCode === country)[0][

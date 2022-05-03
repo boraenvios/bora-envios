@@ -22,7 +22,7 @@ router.get('/inter', (req, res) => {
   postalCode = dstctr === 'TM' ? '744000' : postalCode
   postalCode = dstctr === 'TJ' ? '734000' : postalCode
   postalCode = dstctr === 'MD' ? '2001' : postalCode
-  dstcty = dstcty.replaceAll("'", '').split(' ')[0]
+  dstcty = dstcty.replace("'", '').split(' ')[0]
 
   const pacoteDHLInter = new CalcDHL(
     null,
