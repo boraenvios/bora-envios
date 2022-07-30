@@ -60,7 +60,7 @@ const loadMainListeners = () => {
   dimensionRowNac.addEventListener('click', manageRows)
   dimensionRowInt.addEventListener('click', manageRows)
 
-  //selectorNac.addEventListener('click', changeCalc)
+  selectorNac.addEventListener('click', changeCalc)
   selectorInt.addEventListener('click', changeCalc)
 
   ctryInput.addEventListener('input', countriesInput)
@@ -128,6 +128,13 @@ const obterPesoTotal = (x) => {
       Number(e.value.replace(',', '.'))
     )
 
+  const pacotes = P.map((p, index) => ({
+    peso: p,
+    altura: A[index],
+    largura: L[index],
+    comprimento: C[index]
+  }))
+
   const errorSign = ' - '
   if (
     P.includes('') ||
@@ -172,6 +179,7 @@ const obterPesoTotal = (x) => {
     ExcedPeso: excedPeso,
     ExcedMedidas: excedMedidas,
     ArrPesos: arrPesos,
+    pacotes
   }
   return output
 }
@@ -401,7 +409,6 @@ const calcularNacional = async () => {
   const arrPesos = dimValues.ArrPesos
 
   const dataDHL = [cidadeOrigem, cidadeDestino, dimValues]
-  console.log(dataDHL)
 
   if (dataDHL.includes(' - ')) {
     createAlert('Preencha todos os campos!', containerNac)
@@ -414,18 +421,23 @@ const calcularNacional = async () => {
     changeElement('hide', resultsNac)
   }
 
+  const getPacotes = () => {
+
+  }
+
   const dhlNac = async () => {
     const dhlNacUrl = `${baseURL}${dhlAPI}`
     const dhlNacParams = {
       orgcty: cidadeOrigem,
       dstcty: cidadeDestino,
       peso_cons: peso_cons,
-      orgcep: cepOrgInput.value,
-      dstcep: cepDstInput.value,
+      orgcep: cepOrgInput.value.replace("-", ''),
+      dstcep: cepDstInput.value.replace("-", ''),
       orgctr: 'BR',
       dstctr: 'BR',
       excedmed: excedMed,
       excedpeso: excedPeso,
+      pacotes: dimValues.pacotes
     }
 
     try {
@@ -478,7 +490,7 @@ const calcularNacional = async () => {
   }
 
   start()
-  await correiosNac()
+  //await correiosNac()
   await dhlNac()
   //await upsNac()
   finish()

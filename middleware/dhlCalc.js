@@ -1,6 +1,7 @@
 const fs = require('fs')
 const axios = require('axios')
 const { differenceInBusinessDays } = require('date-fns')
+const { calc, getCidade } = require('./../calculos/dhl/nacional')
 
 class CalcDHL {
   constructor(
@@ -12,7 +13,8 @@ class CalcDHL {
     orgctr,
     dstctr,
     excedmed,
-    excedpeso
+    excedpeso,
+    pacotes
   ) {
     this.props = {
       orgcty,
@@ -24,6 +26,7 @@ class CalcDHL {
       dstctr,
       excedmed,
       excedpeso,
+      pacotes
     }
   }
   cotarInternacional = async () => {
@@ -40,10 +43,10 @@ class CalcDHL {
     const quoteCount = quote.count
     const products = quote.quotationList.quotation.map(prod => {
       const diffDays = differenceInBusinessDays(new Date(prod.estDeliv.split(', ')[1]), new Date())
-      return { 
-        produto: prod.prodNm, 
-        prazo: `${diffDays} - ${diffDays + 2}`, 
-        valor: `R$ ${Number((prod.estTotPrice.replace('BRL', '') * .98).toFixed(2)).toLocaleString('pt-br', { minimumFractionDigits: 2 }) }`
+      return {
+        produto: prod.prodNm,
+        prazo: `${diffDays} - ${diffDays + 2}`,
+        valor: `R$ ${Number((prod.estTotPrice.replace('BRL', '') * .98).toFixed(2)).toLocaleString('pt-br', { minimumFractionDigits: 2 })}`
       }
     })
 
@@ -59,87 +62,29 @@ class CalcDHL {
   }
 
   cotarNacional = async () => {
-    const { orgcty, dstcty, peso_cons, excedmed, excedpeso } = this.props
+    const { orgcty, dstcty, peso_cons, excedmed, excedpeso, orgcep, dstcep, pacotes } = this.props
 
-    const taxacomb = 10 / 100
-    const taxaExced = 47.25
-    const taxaRemota = 48.3
+    const cidade_origem = getCidade(orgcep.substring(0, 5))
+    const cidade_destino = getCidade(dstcep.substring(0, 5))
 
-    // LEITURA DE BASE DE DADOS LOCAL
-    const listacidades = JSON.parse(
-        fs.readFileSync(`${__dirname}/../db/listacidades.json`, 'utf8')
-      ),
-      listazonas = JSON.parse(
-        fs.readFileSync(`${__dirname}/../db/listazonas.json`, 'utf8')
-      ),
-      frete = JSON.parse(
-        fs.readFileSync(`${__dirname}/../db/frete.json`, 'utf8')
-      ),
-      listataxas = JSON.parse(
-        fs.readFileSync(`${__dirname}/../db/taxas.json`, 'utf8')
-      )
-
-    //Pesquisa Cidade -> Aeroporto
-    const cidadeOrigem = listacidades.filter((apt) => apt.cidade === orgcty)[0]
-    const cidadeDestino = listacidades.filter((apt) => apt.cidade === dstcty)[0]
-
-    //VERIFICAÇÃO DE ERRO, SE CIDADE NÃO CONSTA EM BASE DE DADOS
-    if (cidadeOrigem === undefined || cidadeDestino === undefined) {
-      return { erro: 'DHL Indisponível para localidade selecionada' }
+    if (!cidade_origem || !cidade_destino) {
+      //return { erro: 'DHL Indisponível para localidade selecionada' }
     } else {
-      //Estabelece as Lanes
-      const markup = 10
-      const lane = cidadeOrigem.aeroporto + cidadeDestino.aeroporto
-      const uflane = cidadeOrigem.uf + cidadeDestino.uf
-
-      const zona = listazonas.filter((zon) => zon.lane === lane)[0].zona
-
-      const fretes = frete.filter((f) => f.zona === zona)[0]
-      const frete1 = fretes.frete1
-      const freteadd = fretes.freteadd
-
-      const taxas = listataxas.filter((taxa) => taxa.uflane === uflane)[0]
-      const iss = taxas.iss
-      const icms = taxas.icms
-
-      //Frete base
-      const valorBase = frete1 + (peso_cons - 1) * freteadd
-      const valorImp = orgcty == dstcty ? valorBase / iss : valorBase / icms
-
-      //Taxa de combustível
-      const valorComb = valorBase * taxacomb
-      const valorCombImp = orgcty == dstcty ? valorComb / iss : valorComb / icms
-
-      //Área Remota
-      const valorRem = cidadeDestino.area_remota === 'Sim' && taxaRemota
-      const valorRemImp = orgcty == dstcty ? valorRem / iss : valorRem / icms
-
-      //Excedente Peso
-      const valorExcedPeso = taxaExced * Number(excedpeso)
-      const valorExcedPesoImp =
-        orgcty == dstcty ? valorExcedPeso / iss : valorExcedPeso / icms
-
-      //Excendente Medidas
-      const valorExcedMed = taxaExced * Number(excedmed)
-      const valorExcedMedImp =
-        orgcty == dstcty ? valorExcedMed / iss : valorExcedMed / icms
-
-      //Combustível sobre excedente
-      const valorCombExc =
-        (valorExcedMed + valorExcedPeso + valorRem) * taxacomb
-      const valorCombExcImp =
-        orgcty == dstcty ? valorCombExc / iss : valorCombExc / icms
-
-      //Soma dos valores
-      const somaValores =
-        valorImp +
-        valorCombImp +
-        valorRemImp +
-        valorExcedPesoImp +
-        valorExcedMedImp +
-        valorCombExcImp +
-        markup
-      const v1 = somaValores.toFixed(2)
+      const input = {
+        cidade: {
+          origem: orgcep.substring(0, 5),
+          destino: dstcep.substring(0, 5),
+        },
+        pacotes     
+      }
+      const resultado = calc(input)
+      let valor = resultado.total
+      if (resultado.zona == 1 && !resultado.area_remota.status) {
+        valor += 20
+      }
+      else if (resultado.zona != 1 && !resultado.area_remota.status) {
+        valor += 10
+      }
 
       const prazo = await this.obterPrazoNac()
 
@@ -153,11 +98,12 @@ class CalcDHL {
 
       const output = {
         service: 'dhl-nacional',
-        valor: `R$ ` + v1.replace('.', ','),
+        valor: `R$ ` + valor.toLocaleString(),
         prazo: prazo,
       }
       return output
     }
+
   }
 
   obterPrazoNac = async () => {
@@ -186,10 +132,10 @@ class CalcDHL {
         prazoDHL > 4 && prazoDHL < 10
           ? prazoDHL - 2
           : prazoDHL > 11 && prazoDHL < 17
-          ? prazoDHL - 4
-          : prazoDHL > 18
-          ? prazoDHL - 6
-          : prazoDHL
+            ? prazoDHL - 4
+            : prazoDHL > 18
+              ? prazoDHL - 6
+              : prazoDHL
 
       return prazoDHL === 0 ? 1 : prazoDHL
     } else {

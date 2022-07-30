@@ -13,6 +13,7 @@ router.get('/nac', (req, res) => {
     dstctr = req.query.dstctr,
     excedmed = req.query.excedmed,
     excedpeso = req.query.excedpeso
+    pacotes = JSON.parse(`[${req.query.pacotes.toString()}]`)
 
   console.log('DHL NAC:', peso_cons, 'KG', dstcep, dstcty)
 
@@ -25,7 +26,8 @@ router.get('/nac', (req, res) => {
     orgctr,
     dstctr,
     excedmed,
-    excedpeso
+    excedpeso,
+    pacotes
   )
 
   pacoteNac
