@@ -67,9 +67,24 @@ class CalcDHL {
     const cidade_origem = getCidade(orgcep.substring(0, 5))
     const cidade_destino = getCidade(dstcep.substring(0, 5))
 
-    if (!cidade_origem || !cidade_destino) {
-      //return { erro: 'DHL Indisponível para localidade selecionada' }
-    } else {
+    console.log({ cidade_origem, cidade_destino })
+    
+
+    if (!cidade_origem) {
+      return {
+        erro: {
+          type: 'origem-cep-error'
+        }
+      }
+    } 
+    else if (!cidade_destino) {
+      return {
+        erro: {
+          type: 'destino-cep-error'
+        }
+      }
+    }
+    else {
       const input = {
         cidade: {
           origem: orgcep.substring(0, 5),

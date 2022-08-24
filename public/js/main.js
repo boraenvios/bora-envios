@@ -1,5 +1,3 @@
-'use strict'
-
 const $q = document.querySelector.bind(document),
   $a = document.querySelectorAll.bind(document)
 
@@ -420,11 +418,6 @@ const calcularNacional = async () => {
     clearResults('nac')
     changeElement('hide', resultsNac)
   }
-
-  const getPacotes = () => {
-
-  }
-
   const dhlNac = async () => {
     const dhlNacUrl = `${baseURL}${dhlAPI}`
     const dhlNacParams = {
@@ -445,9 +438,16 @@ const calcularNacional = async () => {
       if (!dhlQuote.data.erro) {
         generateResults(dhlQuote.data)
       } else {
-        console.log(dhlQuote.data.erro)
+        const msg = dhlQuote.data.erro.type == 'origem-cep-error' ? 'CEP de origem' : 'CEP de destino'
+        Swal.fire({
+          icon: 'error',
+          title: 'DHL Nacional',
+          html: `O <b>${msg}</b> que você inseriu não aparece em nosso banco de dados. Tente novamente usando um CEP válido ou continue para obter uma cotação.`,
+        })     
       }
-    } catch (error) {}
+    } catch (error) {
+      console.log(error)
+    }
   }
 
   const upsNac = async () => {
@@ -593,7 +593,7 @@ const generateResults = (quote) => {
     }
   }
 
-  const genDiv = (icon, svcName, value, time) => {
+  const genDiv = (icon, svcName, value, time, erro = false) => {
     const str = /Nacional/
     const resultDiv = document.createElement('div')
     resultDiv.className = `${
@@ -702,7 +702,6 @@ const generateResults = (quote) => {
         )
       appendResText('int', resultsInt)
       break
-
     default:
       return console.log('nothing')
   }
