@@ -41,14 +41,16 @@ class CalcDHL {
     const quote_ = await axios.get(dctUrl)
     const quote = quote_.data
     const quoteCount = quote.count
-    const products = quote.quotationList.quotation.map(prod => {
-      const diffDays = differenceInBusinessDays(new Date(prod.estDeliv.split(', ')[1]), new Date())
-      return {
-        produto: prod.prodNm,
-        prazo: `${diffDays} - ${diffDays + 2}`,
-        valor: `R$ ${Number((prod.estTotPrice.replace('BRL', '') * .98).toFixed(2)).toLocaleString('pt-br', { minimumFractionDigits: 2 })}`
-      }
-    })
+    const products = quote.quotationList.quotation
+      .filter(prod => prod.prodNm.toLowerCase() == "express worldwide")
+      .map(prod => {
+        const diffDays = differenceInBusinessDays(new Date(prod.estDeliv.split(', ')[1]), new Date())
+        return {
+          produto: prod.prodNm,
+          prazo: `${diffDays} - ${diffDays + 2}`,
+          valor: `R$ ${Number((prod.estTotPrice.replace('BRL', '').replace(',', '') * .98).toFixed(2)).toLocaleString('pt-br', { minimumFractionDigits: 2 })}`
+        }
+      })
 
     //VERIFICAÇÃO DE ERRO
     if (quoteCount === 0) {
