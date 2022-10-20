@@ -358,11 +358,13 @@ const calcularInter = async () => {
   const fedexURL = `${baseURL}${fedexAPI}`
   const fedexParams = {
     postalCode: postalCode,
-    country: country,
-    pesoCons: pesoCons,
+    dstcty: city,
+    dstctr: country,
+    peso_cons: pesoCons,
   }
   try {
     const fedexQuote = await axios.get(fedexURL, { params: fedexParams })
+    console.log(fedexQuote.data)
     generateResults(fedexQuote.data)
   } catch (e) {
     console.log('FEDEX Indisponível')
@@ -681,26 +683,12 @@ const generateResults = (quote) => {
       break
 
     case 'fedex':
-      if (quote.economy.valor)
+      quote.produtos.forEach(produto => {
         resultsInt.appendChild(
-          genDiv(
-            'fedex',
-            'FedEx Economy',
-            quote.economy.valor,
-            quote.economy.prazo
-          )
+          genDiv('fedex', produto.produto, produto.valor, produto.prazo)
         )
-
-      if (quote.priority.valor)
-        resultsInt.appendChild(
-          genDiv(
-            'fedex',
-            'FedEx Priority',
-            quote.priority.valor,
-            quote.priority.prazo
-          )
-        )
-      appendResText('int', resultsInt)
+        appendResText('int', resultsInt)
+      })
       break
     default:
       return console.log('nothing')
